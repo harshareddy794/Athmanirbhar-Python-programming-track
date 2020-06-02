@@ -1,0 +1,5 @@
+1.Python program to add two numbers
+2.Python Program for factorial of a number
+3.Python Program for simple interest
+4.Python Program for compound interest
+5.Python Program for Program to find area of a circle
